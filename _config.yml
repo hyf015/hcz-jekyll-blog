@@ -5,7 +5,7 @@ logo: IMG_0678.JPG
 github: https://github.com/hyf015
 about: PhD student @ UTokyo
 
-baseurl: ""
+baseurl: "/"
 url: ""
 
 allowsearch: true
