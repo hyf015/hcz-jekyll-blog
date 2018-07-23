@@ -1,17 +1,17 @@
-title: John Smith
-description: My Personal Blog
-author: John Smith
+title: Yifei Huang
+description: My Homepage
+author: Yifei Huang
 logo: /hcz-jekyll-blog/static/img/avatar.png
-github: https://github.com/codeasashu
-about: Freelance developer
+github: https://github.com/hyf015
+about: PhD student @ UTokyo
 
 baseurl: ""
 url: ""
 
 allowsearch: true
 
-disqus_shortname: aboutashu
-google_analytics: UA-72862926-1
+disqus_shortname: hyf
+google_analytics: UA-122681435-1
 
 share:
   twitter_username: \#
