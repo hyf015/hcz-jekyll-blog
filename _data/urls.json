@@ -24,5 +24,10 @@
     "text": "Github",
     "url": "/#",
     "icon": "fa-github"
+  },
+  {
+    "text": "Proj",
+    "url": "proj/index.html",
+    "icon": "fa-feed"
   }
 ]
