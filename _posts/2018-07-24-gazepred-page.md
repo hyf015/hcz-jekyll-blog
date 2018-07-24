@@ -4,7 +4,7 @@ title: "Egocentric Gaze Prediction"
 date:   2018-07-24 14:50:39
 categories: others
 ---
-<img class="img-responsive" src="https://github.com/cai-mj/cai-mj.github.io/blob/master/images/ECCV2018_sample.gif">
+<img class="img-responsive" src="/static/imgs/ECCV2018_sample.gif">
 
 ### Abstract
 We present a new computational model for gaze prediction in egocentric videos by exploring patterns in temporal shift of gaze fixations (attention transition) that are dependent on egocentric manipulation tasks.
@@ -14,7 +14,7 @@ In particular, the task-dependent attention transition is learned with a recurre
 Experiments on public egocentric activity datasets show that our model significantly outperforms state-of-the-art gaze prediction methods and is able to learn meaningful transition of human attention.
 
 ### Network architecture
-<img class="img-responsive" src="https://github.com/cai-mj/cai-mj.github.io/blob/master/images/ECCV2018_architecture.jpg">
+<img class="img-responsive" src="/static/imgs/ECCV2018_architecture.jpg">
 
 ## Publication:
 Y. Huang, <u>M. Cai</u>, Z. Li and Y. Sato, &quot;Predicting Gaze in Egocentric Video by Learning Task-dependent Attention Transition,&quot; <i>European Conference on Computer Vision (**ECCV**)</i>, to appear, 2018. (<font color="blue">oral presentation, acceptance rate: 2%</font>)  
