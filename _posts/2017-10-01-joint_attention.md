@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Joint Attention Discovery"  
+image: fa-info
 categories: projects
 ---
 # Joint Attention Discovery
