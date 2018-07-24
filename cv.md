@@ -1,1 +1,1 @@
-## My resume can be seen [here](/assets/CV.pdf)
+## My resume can be seen [here](hyf015.github.io/assets/CV.pdf)
