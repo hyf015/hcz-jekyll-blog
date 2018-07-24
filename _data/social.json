@@ -1,18 +1,10 @@
 [
   {
-    "icon": "fa-facebook",
-    "link": ""
+    "icon": "fa-github",
+    "link": "https://hyf015.github.io"
   },
   {
-    "icon": "fa-twitter",
-    "link": ""
-  },
-  {
-    "icon": "fa-linkedin",
-    "link": ""
-  },
-  {
-    "icon": "fa-stack-exchange",
-    "link": ""
+    "icon": "fa-google",
+    "link": "https://scholar.google.com/citations?user=RU8gNcgAAAAJ&hl=en"
   }
 ]
