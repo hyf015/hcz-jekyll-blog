@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Projects
-permalink: /projects/
+permalink: /interests/
 ---
 
 Still working ...
