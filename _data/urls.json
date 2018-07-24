@@ -23,6 +23,6 @@
     {
     "text": "Interest",
     "url": "/interests",
-    "icon": "fa-glasses"
+    "icon": "/static/img/glasses-solid.svg"
   }
 ]
