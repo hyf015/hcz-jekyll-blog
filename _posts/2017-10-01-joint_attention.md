@@ -11,5 +11,5 @@ This work aims to develop a computer-vision technique for understanding objects 
 ## Publication:
 Y. Huang, <u>M. Cai</u>, H. Kera, R. Yonetani, K. Higuchi, and Y. Sato, &quot;Temporal localization and spatial segmentation of joint attention in multiple first-person videos,&quot; <i>Proceedings of IEEE International Conference on Computer Vision Workshop (**ICCVW**)</i>, pp. 2313-2321, 2017.   
 [[pdf]](http://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w34/attention_hyfiis.u-tokyo.ac.jp_cai-mjiis.u-tokyo.ac.jp_keraiis.u-tokyo.ac.jp_ICCV_2017_paper.pdf)
-[[poster]](https://github.com/cai-mj/cai-mj.github.io/blob/master/files/HC_ICCVW2017_poster.pdf)
+[[poster]](/assets/HC_ICCVW2017_poster.pdf)
 [[dataset]](https://github.com/cai-mj/UTJA_dataset)
