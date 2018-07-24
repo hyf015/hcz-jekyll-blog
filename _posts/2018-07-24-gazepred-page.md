@@ -2,7 +2,7 @@
 layout: post
 title: "Egocentric Gaze Prediction"
 date:   2018-07-24 14:50:39
-image: /static/img/E.png
+image: /assets/GP.png
 categories: projects
 ---
 <img class="img-responsive" src="/static/img/ECCV2018_sample.gif">
