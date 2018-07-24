@@ -20,13 +20,8 @@
     "url": "/cv",
     "icon": "fa-graduation-cap",
   },
-  {
-    "text": "Github",
-    "url": "https://github.com/hyf015",
-    "icon": "fa-github"
-  },
     {
-    "text": "Test",
+    "text": "Interest",
     "url": "/projects",
     "icon": "fa-question"
   }
