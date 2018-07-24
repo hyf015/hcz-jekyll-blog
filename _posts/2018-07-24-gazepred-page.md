@@ -5,6 +5,7 @@ date:   2018-07-24 14:50:39
 image: /assets/GP.png
 categories: projects
 ---
+# Egocentric Gaze Prediction
 <img class="img-responsive" src="/static/img/ECCV2018_sample.gif">
 
 ### Abstract
