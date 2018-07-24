@@ -1,5 +1,5 @@
 ---
 layout: blog
-title: Blog
+title: Posts
 ---
-# there
+## All posts are listed here:
