@@ -1,6 +1,6 @@
 ---
-layout: project
-title: Projects
+layout: interest
+title: Interests
 permalink: /interests/
 ---
 
