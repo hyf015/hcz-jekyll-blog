@@ -6,7 +6,7 @@ permalink: /
 # Hello
 Hi! I'm Yifei, a PhD student in [Institute of Industrial Science](https://www.iis.u-tokyo.ac.jp/en/) of the University of Tokyo. I am now working with [Prof. Yoichi Sato](http://www.hci.iis.u-tokyo.ac.jp/~ysato/index.html) under the [JST CREST](http://www.hci.iis.u-tokyo.ac.jp/~cvs/) project, which focuses on understanding and assistance of group activities using first-person vision.
 
-I received my M.S. from Graduate School of Information Science and Technology at the [University of Tokyo](http://www.u-tokyo.ac.jp/en/), supervised by Prof. Yoichi Sato. I received my B.S. in Automation in IEEE honor class of [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/).
+I received my M.S. from Graduate School of Information Science and Technology at the [University of Tokyo](http://www.u-tokyo.ac.jp/en/), supervised by Prof. Yoichi Sato. I received my B.S. in Automation in [IEEE honor class](http://ieee.seiee.com/class/index.html) of [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/).
 
 
 ## News
