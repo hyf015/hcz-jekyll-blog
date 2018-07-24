@@ -11,7 +11,7 @@
     "icon": "fa-feed"
   },
   {
-    "text": "About",
+    "text": "List",
     "url": "/about",
     "icon": "fa-comments"
   },
@@ -29,5 +29,5 @@
     "text": "Test",
     "url": "/projects",
     "icon": "fa-desktop"
-  },
+  }
 ]
