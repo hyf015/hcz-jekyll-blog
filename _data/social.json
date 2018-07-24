@@ -6,5 +6,9 @@
   {
     "icon": "fa-google",
     "link": "https://scholar.google.com/citations?user=RU8gNcgAAAAJ&hl=en"
+  },
+  {
+    "icon": "fa-school",
+    "link": "http://www.hci.iis.u-tokyo.ac.jp/"
   }
 ]
