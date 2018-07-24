@@ -8,12 +8,12 @@
   {
     "text": "Projects",
     "url": "/proj/index.html",
-    "icon": "fa-feed"
+    "icon": "fa-desktop"
   },
   {
     "text": "List",
     "url": "/about",
-    "icon": "fa-comments"
+    "icon": "fa-list"
   },
   {
     "text": "Resume",
@@ -28,6 +28,6 @@
     {
     "text": "Test",
     "url": "/projects",
-    "icon": "fa-desktop"
+    "icon": "fa-question"
   }
 ]
