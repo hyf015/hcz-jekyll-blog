@@ -10,14 +10,15 @@
 		"name": "League of Legends",
 		"image": "LOL.jpg",
 		"date": "Bronze V",
+		"url": "https://en.wikipedia.org/wiki/League_of_Legends"
 		"tags": ["Games"]
 	},
 	{
-		"name": "Cool project 3",
-		"image": "placeholder.jpg",
-		"url": "#",
-		"date": "June 2014",
-		"tags": ["HTML","JQuery","PHP"]
+		"name": "Xiangqi (Chinese chess)",
+		"image": "XQ.jpg",
+		"url": "https://en.wikipedia.org/wiki/Xiangqi",
+		"date": "Fun",
+		"tags": ["Games"]
 	},
 
 ]
