@@ -4,7 +4,7 @@ title: Home
 permalink: /
 ---
 # Hello
-Hi! I'm Yifei, a PhD student in [Sato Laboratory](http://www.hci.iis.u-tokyo.ac.jp/), [Institute of Industrial Science](https://www.iis.u-tokyo.ac.jp/en/) of the University of Tokyo. I am now working with [Prof. Yoichi Sato](http://www.hci.iis.u-tokyo.ac.jp/~ysato/index.html) under the [JST CREST](http://www.hci.iis.u-tokyo.ac.jp/~cvs/) project, which focuses on understanding and assistance of group activities using first-person vision. I'm currenctly supported by the [Global Creative Leader](http://www.gcl.i.u-tokyo.ac.jp/) program of the University of Tokyo.
+Hi! I'm Yifei, a PhD student in [Sato Laboratory](http://www.hci.iis.u-tokyo.ac.jp/), which is in the [Institute of Industrial Science](https://www.iis.u-tokyo.ac.jp/en/) of the University of Tokyo. I am now working with [Prof. Yoichi Sato](http://www.hci.iis.u-tokyo.ac.jp/~ysato/index.html) under the [JST CREST](http://www.hci.iis.u-tokyo.ac.jp/~cvs/) project, which focuses on understanding and assistance of group activities using first-person vision. I'm currenctly supported by the [Global Creative Leader](http://www.gcl.i.u-tokyo.ac.jp/) program of the University of Tokyo.
 
 I received my M.S. from Graduate School of Information Science and Technology at the [University of Tokyo](http://www.u-tokyo.ac.jp/en/), supervised by Prof. Yoichi Sato. I received my B.S. in Automation in [IEEE honor class](http://ieee.seiee.com/class/index.html) of [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/).
 
