@@ -23,6 +23,6 @@
     {
     "text": "Interest",
     "url": "/interests",
-    "icon": "/static/img/glasses-solid.svg"
+    "icon": "fa-map-pin"
   }
 ]
