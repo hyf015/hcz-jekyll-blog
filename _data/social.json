@@ -1,18 +1,14 @@
 [
   {
-    "icon": "fa-user-graduate",
+    "icon": "fa-goodreads-g",
     "link": "https://scholar.google.com/citations?user=RU8gNcgAAAAJ&hl=en"
   },
   {
-    "icon": "fa-terminal",
+    "icon": "fa-github",
     "link": "https://github.com/hyf015"
   },
   {
-    "icon": "fa-map-marker-alt",
-    "link": "http://www.hci.iis.u-tokyo.ac.jp/"
+    "icon": "fa-zhihu",
+    "link": "https://www.zhihu.com/people/lao-xie-xie-xie-xie/activities"
   },
-    {
-    "icon": "fa-facebook",
-    "link": "http://www.hci.iis.u-tokyo.ac.jp/"
-  }
 ]
