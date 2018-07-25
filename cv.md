@@ -4,6 +4,7 @@ title: CV
 permalink: /cv/
 ---
 ## PDF version of my CV can be seen [here](hyf015.github.io/assets/CV.pdf).
+
 Education
 ======
 * Ph.D., Information and Communication Engineering, University of Tokyo
