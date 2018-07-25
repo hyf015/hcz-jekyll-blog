@@ -15,10 +15,15 @@
     "url": "/cv",
     "icon": "fa-graduation-cap",
   },
+  {
+    "text": "Publications",
+    "url": "/publications",
+    "icon": "fa-book-open",
+  },
     {
     "text": "Interest",
     "url": "/interests",
-    "icon": "fa-palette"
+    "icon": "fa-chess-rook"
   },
   {
     "text": "List",
