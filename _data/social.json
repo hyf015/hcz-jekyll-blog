@@ -1,11 +1,11 @@
 [
   {
-    "icon": "fa-laptop-code",
-    "link": "https://github.com/hyf015"
-  },
-  {
     "icon": "fa-user-graduate",
     "link": "https://scholar.google.com/citations?user=RU8gNcgAAAAJ&hl=en"
+  },
+  {
+    "icon": "fa-github",
+    "link": "https://github.com/hyf015"
   },
   {
     "icon": "fa-map-marker-alt",
