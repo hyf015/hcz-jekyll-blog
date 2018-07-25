@@ -1,10 +1,10 @@
 [
 	{
-		"name": "Cool project 1",
-		"image": "placeholder.jpg",
+		"name": "Soccer/Football",
+		"image": "FCB.png",
 		"url": "#",
-		"date": "Jan 2014",
-		"tags": ["Angular JS","API"]
+		"date": "FC Barcelona!",
+		"tags": ["Sports"]
 	},
 	{
 		"name": "Cool project 2",
