@@ -10,5 +10,9 @@
   {
     "icon": "fa-map-marker-alt",
     "link": "http://www.hci.iis.u-tokyo.ac.jp/"
+  },
+    {
+    "icon": "fa-facebook",
+    "link": "http://www.hci.iis.u-tokyo.ac.jp/"
   }
 ]
