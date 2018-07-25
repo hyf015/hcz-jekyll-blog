@@ -1,4 +1,10 @@
-You may also find my articles on <u><a href="https://scholar.google.com/citations?user=lmUOLU8AAAAJ&hl=ja">
+---
+layout: page
+title: Publications
+permalink: /publications
+---
+
+You may also find my articles on <u><a href="https://scholar.google.com/citations?user=RU8gNcgAAAAJ&hl=en">
 my Google Scholar profile</a>.</u>
 
 International Conference
