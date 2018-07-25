@@ -1,6 +1,6 @@
 [
   {
-    "icon": "fa-goodreads-g",
+    "icon": "fa-goodreads",
     "link": "https://scholar.google.com/citations?user=RU8gNcgAAAAJ&hl=en"
   },
   {
@@ -12,7 +12,7 @@
     "link": "https://www.zhihu.com/people/lao-xie-xie-xie-xie/activities"
   },
   {
-    "icon": "fa-linkedin-in",
+    "icon": "fa-linkedin",
     "link": "https://www.linkedin.com/in/yifei-huang-647632169/"
   },
 ]
