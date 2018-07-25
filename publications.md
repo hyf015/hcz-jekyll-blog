@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publications
-permalink: /publications
+permalink: /publications/
 ---
 
 You may also find my articles on <u><a href="https://scholar.google.com/citations?user=RU8gNcgAAAAJ&hl=en">
