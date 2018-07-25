@@ -38,5 +38,9 @@ Skills
   
 Selected publications
 ======
-* **Huang Yifei**, Minjie Cai, Zhenqiang Li, and Yoichi Sato. "Predicting gaze in ego-centric video by learning task-dependent attention transition". European Conferenceon Computer Vision (ECCV), to appear, 2018.**(oral)**.
-* **Huang Yifei**, Minjie Cai, Hiroshi Kera, Ryo Yonetani, Keita Higuchi, and Yoichi Sato. "Temporal localization and spatial segmentation of joint attention in multiplefirst-person videos". In International Conference on Computer Vision Workshop (ICCVW), IEEE, 2017.
+* Y. Huang, <u>M. Cai</u>, Z. Li and Y. Sato, &quot;Predicting Gaze in Egocentric Video by Learning Task-dependent Attention Transition,&quot; <i>European Conference on Computer Vision (**ECCV**)</i>, to appear, 2018. (<font color="blue">oral presentation, acceptance rate: 2%</font>)  
+[[Arxiv preprint]](https://arxiv.org/pdf/1803.09125)
+* <u>Y. Huang</u>, M. Cai, H. Kera, R. Yonetani, K. Higuchi, and Y. Sato, &quot;Temporal localization and spatial segmentation of joint attention in multiple first-person videos,&quot; <i>Proceedings of IEEE International Conference on Computer Vision Workshop (**ICCVW**)</i>, pp. 2313-2321, 2017.   
+[[pdf]](http://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w34/attention_hyfiis.u-tokyo.ac.jp_cai-mjiis.u-tokyo.ac.jp_keraiis.u-tokyo.ac.jp_ICCV_2017_paper.pdf)
+[[poster]](/assets/HC_ICCVW2017_poster.pdf)
+[[dataset]](https://github.com/cai-mj/UTJA_dataset)
