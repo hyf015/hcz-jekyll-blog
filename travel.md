@@ -10,6 +10,8 @@ permalink: /travel/
   * Sendai
   * Nikko, Utsunomiya
   * Numazu, Gotemba
+  * Toyama
+  * Hida, Takayama
 
 2015 - 2018
 ======
