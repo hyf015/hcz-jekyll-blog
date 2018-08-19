@@ -15,6 +15,7 @@ permalink: /travel/
 ======
 * Japan
   * Tokyo
+  * Mt. Fuji
   * Chiba
   * Kyoto
   * Nara
