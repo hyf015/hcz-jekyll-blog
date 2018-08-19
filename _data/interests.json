@@ -20,5 +20,12 @@
 		"date": "Fun",
 		"tags": ["Games"]
 	},
+	{
+		"name": "Travel",
+		"image": "Travel.jpg",
+		"url": "/",
+		"date": "Fun",
+		"tags": ["Travel"]
+	},
 
 ]
