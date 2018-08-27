@@ -34,7 +34,7 @@ Skills
 * Programming: C++, Python, Matlab
 * Language
   * Chinese: Native
-  * English: Fluent (TOEFL 105 in 2018)
+  * English: Fluent (TOEFL 105 in 2018, TOIEC 980 in 2018)
   * Japanese: Intermediate (JLPT N2 in 2014)
   
 Selected publications
