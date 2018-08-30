@@ -3,7 +3,7 @@ layout: page
 title: CV
 permalink: /cv/
 ---
-## PDF version of my CV can be seen [here](hyf015.github.io/assets/CV.pdf).
+## PDF version of my CV can be seen [here](assets/CV.pdf).
 
 Education
 ======
