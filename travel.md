@@ -12,6 +12,13 @@ permalink: /travel/
   * Numazu, Gotemba
   * Toyama
   * Hida, Takayama
+  
+* Germany
+  * Munich
+
+* Austria
+  * Innsbruck
+  * Salzburg
 
 2015 - 2018
 ======
