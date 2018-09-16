@@ -15,6 +15,7 @@ permalink: /travel/
   
 * Germany
   * Munich
+  * Schwangau
 
 * Austria
   * Innsbruck
