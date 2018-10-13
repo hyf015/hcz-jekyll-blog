@@ -10,11 +10,11 @@ permalink: /travel/
   * Sendai
   * Nikko, Utsunomiya
   * Numazu, Gotemba
-  * Toyama
+  * Toyama, [Shirakawago](../travel_ims/shirakawago.JPG)
   * Hida, Takayama
   
 * Germany
-  * Munich
+  * [Munich](../travel_ims/munich.JPG)
   * [Schwangau](../travel_ims/IMG_1462.JPG)
 
 * Austria
@@ -27,9 +27,9 @@ permalink: /travel/
   * Tokyo
   * Mt. Fuji
   * Chiba
-  * Kyoto
+  * [Kyoto](../travel_ims/kyoto.JPG)
   * Nara
-  * Osaka
+  * [Osaka](../travel_ims/osaka.JPG)
   * Hiroshima
   * Matsuyama
   * Yokohama, Kamakura, Enoshima, Odawara, Hakone
