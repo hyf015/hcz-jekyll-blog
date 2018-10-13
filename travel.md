@@ -18,8 +18,8 @@ permalink: /travel/
   * Schwangau
 
 * Austria
-  * [Innsbruck](../traval_ims/IMG_1180.JPG)
-  * Salzburg
+  * [Innsbruck](../travel_ims/IMG_1180.JPG)
+  * [Salzburg](../travel_ims/IMG_1368.JPG)
 
 2015 - 2018
 ======
