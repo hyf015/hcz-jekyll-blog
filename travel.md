@@ -6,8 +6,7 @@ permalink: /travel/
 2018 - 
 ======
 * Japan
-  * Hokkaido
-    * Sapporo, Asahikawa, Otaru, Hakodate
+  * [Sapporo](../travel_ims/sapporo.JPG), [Asahikawa](../travel_ims/asahikawa.JPG), [Otaru](../travel_ims/otaru.JPG), [Hakodate](https://hyf015.github.io/static/projects/IMG_0763.jpg), [Furano](../travel_ims/furano.JPG)
   * Sendai
   * Nikko, Utsunomiya
   * Numazu, Gotemba
