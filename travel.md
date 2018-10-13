@@ -31,7 +31,8 @@ permalink: /travel/
   * Nara
   * [Osaka](../travel_ims/osaka.JPG)
   * Hiroshima
-  * Matsuyama
+  * [Imabari](../travel_ims/imabari.JPG)
+  * [Matsuyama](../travel_ims/matsuyama.JPG)
   * Yokohama, Kamakura, Enoshima, Odawara, Hakone
   * Atami, Shimoda
   * Kawagoe, Kawaguchi
