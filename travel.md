@@ -10,7 +10,7 @@ permalink: /travel/
   * [Sendai](../travel_ims/sendai.JPG)
   * Nikko, [Utsunomiya](../travel_ims/utsunomiya.JPG)
   * Numazu, Gotemba
-  * Toyama, [Shirakawago](../travel_ims/shirakawago.JPG)
+  * [Toyama](../travel_ims/toyama.JPG), [Shirakawago](../travel_ims/shirakawago.JPG)
   * Hida, [Takayama](../travel_ims/takayama.JPG)
   
 * Germany
