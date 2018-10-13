@@ -6,6 +6,7 @@ permalink: /travel/
 2018 - 
 ======
 * Japan
+  * [Urayasu](../travel_ims/urayasu.JPG)
   * [Sapporo](../travel_ims/sapporo.JPG), [Asahikawa](../travel_ims/asahikawa.JPG), [Otaru](../travel_ims/otaru.JPG), [Hakodate](https://hyf015.github.io/static/projects/IMG_0763.jpg), [Furano](../travel_ims/furano.JPG)
   * [Sendai](../travel_ims/sendai.JPG)
   * Nikko, [Utsunomiya](../travel_ims/utsunomiya.JPG)
