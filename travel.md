@@ -7,11 +7,11 @@ permalink: /travel/
 ======
 * Japan
   * [Sapporo](../travel_ims/sapporo.JPG), [Asahikawa](../travel_ims/asahikawa.JPG), [Otaru](../travel_ims/otaru.JPG), [Hakodate](https://hyf015.github.io/static/projects/IMG_0763.jpg), [Furano](../travel_ims/furano.JPG)
-  * Sendai
-  * Nikko, Utsunomiya
+  * [Sendai](../travel_ims/sendai.JPG)
+  * Nikko, [Utsunomiya](../travel_ims/utsunomiya.JPG)
   * Numazu, Gotemba
   * Toyama, [Shirakawago](../travel_ims/shirakawago.JPG)
-  * Hida, Takayama
+  * Hida, [Takayama](../travel_ims/takayama.JPG)
   
 * Germany
   * [Munich](../travel_ims/munich.JPG)
@@ -24,23 +24,23 @@ permalink: /travel/
 2015 - 2018
 ======
 * Japan
-  * Tokyo
-  * Mt. Fuji
+  * [Tokyo](../travel_ims/tokyo.JPG)
+  * [Mt. Fuji](../travel_ims/fuji.JPG)
   * Chiba
   * [Kyoto](../travel_ims/kyoto.JPG)
   * Nara
   * [Osaka](../travel_ims/osaka.JPG)
-  * Hiroshima
+  * [Hiroshima](../travel_ims/hiroshima.JPG)
   * [Imabari](../travel_ims/imabari.JPG)
   * [Matsuyama](../travel_ims/matsuyama.JPG)
-  * Yokohama, Kamakura, Enoshima, Odawara, Hakone
-  * Atami, Shimoda
-  * Kawagoe, Kawaguchi
+  * Yokohama, [Kamakura](../travel_ims/kamakura.JPG), Odawara, Hakone
+  * [Atami](../travel_ims/atami.JPG), Shimoda
+  * [Kawagoe](../travel_ims/kawagoe.JPG), Kawaguchi
   
 * Italy
-  * Venice
-  * Rome
-  * Florence
+  * [Venice](../travel_ims/venice.JPG)
+  * [Milan](../travel_ims/milan.JPG)
+  * [Florence](../travel_ims/florence.JPG)
 
 2011 - 2015
 ======
@@ -58,7 +58,7 @@ permalink: /travel/
 Before 2011
 ======
 * China
-  * Beijing, Tianjin, Shanghai
+  * Beijing, Tianjin, [Shanghai](../travel_ims/shanghai.JPG)
   * Puyang, Hebi, Zhengzhou, Kaifeng, Shangqiu, Luoyang, Pingdingshan, Anyang
   * Jinan, Laiwu, Tsingtao, Dongying, Yantai, Liaocheng, Heze, Qufu, Weihai
   * Dalian
