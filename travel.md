@@ -46,7 +46,7 @@ permalink: /travel/
 2011 - 2015
 ======
 * China
-  * Nanjing, Yangzhou, Suqian, Suzhou
+  * Nanjing, Yangzhou, Suqian, [Suzhou](../travel_ims/suzhou.JPG)
   * Hangzhou
   * Guangzhou, Shenzhen
   * Hong Kong
@@ -54,7 +54,7 @@ permalink: /travel/
   * Guilin
   
 * Canada
-  * Vancouver
+  * [Vancouver](../travel_ims/vancouver.jpg)
   
 Before 2011
 ======
@@ -64,5 +64,5 @@ Before 2011
   * Jinan, Laiwu, Tsingtao, Dongying, Yantai, Liaocheng, Heze, Qufu, Weihai
   * Dalian
   * Changsha, Zhangjiajie
-  * Urumqi, Kuerle, Turpan, Qaramay, Altay
+  * Urumqi, Kuerle, Turpan, [Qaramay](../travel_ims/qaramay.JPG), Altay
   * Xi'an
