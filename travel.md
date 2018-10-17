@@ -11,7 +11,7 @@ permalink: /travel/
   * [Sendai（仙台）](../travel_ims/sendai.JPG)
   * [Inawashiro（猪苗代）](../travel_ims/inawashiro.JPG)
   * Nikko（日光）, [Utsunomiya（宇都宮）](../travel_ims/utsunomiya.JPG)
-  * Numazu（沼津）, Gotemba（御殿場）
+  * Numazu（沼津）, Gotemba（御殿場）, [Toi（土肥）](../travel_ims/toi.JPG)
   * [Toyama（富山）](../travel_ims/toyama.JPG), [Shirakawago（白川郷）](../travel_ims/shirakawago.JPG)
   * Hida（飛騨）, [Takayama（高山）](../travel_ims/takayama.JPG)
   
