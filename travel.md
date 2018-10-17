@@ -9,6 +9,7 @@ permalink: /travel/
   * [Urayasu（浦安）](../travel_ims/urayasu.JPG)
   * [Sapporo（札幌）](../travel_ims/sapporo.JPG), [Asahikawa（旭川）](../travel_ims/asahikawa.JPG), [Otaru（小樽）](../travel_ims/otaru.JPG), [Hakodate（函館）](https://hyf015.github.io/static/projects/IMG_0763.jpg), [Furano（富良野）](../travel_ims/furano.JPG)
   * [Sendai（仙台）](../travel_ims/sendai.JPG)
+  * [Inawashiro（猪苗代）](../travel_ims/inawashiro.JPG)
   * Nikko（日光）, [Utsunomiya（宇都宮）](../travel_ims/utsunomiya.JPG)
   * Numazu（沼津）, Gotemba（御殿場）
   * [Toyama（富山）](../travel_ims/toyama.JPG), [Shirakawago（白川郷）](../travel_ims/shirakawago.JPG)
@@ -32,10 +33,12 @@ permalink: /travel/
   * [Nara（奈良）](../travel_ims/nara.jpg)
   * [Osaka（大阪）](../travel_ims/osaka.JPG)
   * [Hiroshima（広島）](../travel_ims/hiroshima.JPG)
+  * [Himeji（姫路）](../travel_ims/himeji.JPG)
   * [Matsuyama（松山）](../travel_ims/matsuyama.JPG),　[Imabari（今治）](../travel_ims/imabari.JPG)
   * Yokohama（横浜）, [Kamakura（鎌倉）](../travel_ims/kamakura.JPG), [Odawara（小田原）](../travel_ims/odawara.jpg), Hakone（箱根）
   * [Atami（熱海）](../travel_ims/atami.JPG), Shimoda（下田）
   * [Kawagoe（川越）](../travel_ims/kawagoe.JPG), Kawaguchi（川口）
+  * Suzaka（須坂）
   
 * Italy
   * [Venice](../travel_ims/venice.JPG)
