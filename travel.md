@@ -26,15 +26,15 @@ permalink: /travel/
 ======
 * Japan
   * [Tokyo](../travel_ims/tokyo.JPG)
-  * [Mt. Fuji](../travel_ims/fuji.JPG)
-  * Chiba
+  * [Mt. Fuji(lakes)](../travel_ims/fuji.JPG)[Mt. Fuji](../travel_ims/fuji.jpg)
+  * [Chiba](../travel_ims/chiba.jpg)
   * [Kyoto](../travel_ims/kyoto.JPG)
-  * Nara
+  * [Nara](../travel_ims/nara.jpg)
   * [Osaka](../travel_ims/osaka.JPG)
   * [Hiroshima](../travel_ims/hiroshima.JPG)
   * [Imabari](../travel_ims/imabari.JPG)
   * [Matsuyama](../travel_ims/matsuyama.JPG)
-  * Yokohama, [Kamakura](../travel_ims/kamakura.JPG), Odawara, Hakone
+  * Yokohama, [Kamakura](../travel_ims/kamakura.JPG), [Odawara](../travel_ims/odawara.jpg), Hakone
   * [Atami](../travel_ims/atami.JPG), Shimoda
   * [Kawagoe](../travel_ims/kawagoe.JPG), Kawaguchi
   
@@ -46,15 +46,15 @@ permalink: /travel/
 2011 - 2015
 ======
 * China
-  * Nanjing, Yangzhou, Suqian, [Suzhou](../travel_ims/suzhou.JPG)
+  * [Nanjing](../travel_ims/nanjing.jpg), [Yangzhou](../travel_ims/yangzhou.jpg), Suqian, [Suzhou](../travel_ims/suzhou.JPG)
   * Hangzhou
-  * Guangzhou, Shenzhen
-  * Hong Kong
+  * [Guangzhou](../travel_ims/guangzhou.jpg), Shenzhen
+  * [Hong Kong](../travel_ims/hongkong.jpg)
   * Xiamen
-  * Guilin
+  * [Guilin](../travel_ims/guilin.jpg)
   
 * Canada
-  * [Vancouver](../travel_ims/vancouver.jpg)
+  * [Vancouver](../travel_ims/vancouver.jpg), [Victoria](../travel_ims/victoria.jpg)
   
 Before 2011
 ======
@@ -63,6 +63,6 @@ Before 2011
   * Puyang, Hebi, Zhengzhou, Kaifeng, Shangqiu, Luoyang, Pingdingshan, Anyang
   * Jinan, Laiwu, Tsingtao, Dongying, Yantai, Liaocheng, Heze, Qufu, Weihai
   * Dalian
-  * Changsha, Zhangjiajie
-  * Urumqi, Kuerle, Turpan, [Qaramay](../travel_ims/qaramay.JPG), Altay
+  * [Changsha](../travel_ims/changsha.jpg), Zhangjiajie
+  * Urumqi, Kuerle, Turpan, [Qaramay](../travel_ims/qaramay.JPG), [Altay](../travel_ims/altay.jpg)
   * Xi'an
