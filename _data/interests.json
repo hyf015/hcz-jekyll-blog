@@ -1,5 +1,12 @@
 [
 	{
+		"name": "Travel",
+		"image": "IMG_0763.jpg",
+		"url": "/travel/",
+		"date": "Fun",
+		"tags": ["Travel"]
+	},
+	{
 		"name": "Soccer/Football",
 		"image": "FCB.png",
 		"url": "https://www.fcbarcelona.com/",
@@ -19,13 +26,6 @@
 		"url": "https://en.wikipedia.org/wiki/Xiangqi",
 		"date": "Fun",
 		"tags": ["Games"]
-	},
-	{
-		"name": "Travel",
-		"image": "IMG_0763.jpg",
-		"url": "/travel/",
-		"date": "Fun",
-		"tags": ["Travel"]
 	},
 
 ]
