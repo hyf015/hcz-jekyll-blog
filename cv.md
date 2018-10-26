@@ -9,7 +9,7 @@ Education
 ======
 * Ph.D., Information and Communication Engineering, University of Tokyo
   * Date: April 2018 -
-  * Advisor: Prof. Yoichi Sato
+  * Advisor: [Prof. Yoichi Sato](http://www.hci.iis.u-tokyo.ac.jp/~ysato/)
 * M.S., Information and Communication Engineering, University of Tokyo
   * Date: October 2015 - March 2018
   * Master's Thesis: Temporal Localization and Spatial Segmentation of Joint Attention in Multiple First Person Videos
@@ -22,7 +22,7 @@ Intern Experience
 * June 2017 - : Research Intern
   * Huawei Japan Research Center
   * Research area: 3D face reconstruction and its applications. 
-  * Supervisor: Dr. Bo Zheng
+  * Supervisor: [Dr. Bo Zheng](http://www.bozheng-lab.com/)
 
 * December 2017 - January 2018: Intern
   * DJI Japan
@@ -41,6 +41,8 @@ Selected publications
 ======
 * Y. Huang, <u>M. Cai</u>, Z. Li and Y. Sato, &quot;Predicting Gaze in Egocentric Video by Learning Task-dependent Attention Transition,&quot; <i>European Conference on Computer Vision (**ECCV**)</i>, to appear, 2018. (<font color="blue">oral presentation, acceptance rate: 2%</font>)  
 [[Arxiv preprint]](https://arxiv.org/pdf/1803.09125)
+* H. Chen, <u>Y. Huang</u>, and H. Nakayama, &quot;Semantic Aware Attention Based Deep Object Co-segmentation,&quot; <i>Proceedings of Asian Conference on Computer Vision (**ACCV**)</i>, 2018.
+[[Arxiv preprint]](https://arxiv.org/pdf/1810.06859.pdf)
 * <u>Y. Huang</u>, M. Cai, H. Kera, R. Yonetani, K. Higuchi, and Y. Sato, &quot;Temporal localization and spatial segmentation of joint attention in multiple first-person videos,&quot; <i>Proceedings of IEEE International Conference on Computer Vision Workshop (**ICCVW**)</i>, pp. 2313-2321, 2017.   
 [[pdf]](http://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w34/attention_hyfiis.u-tokyo.ac.jp_cai-mjiis.u-tokyo.ac.jp_keraiis.u-tokyo.ac.jp_ICCV_2017_paper.pdf)
 [[poster]](/assets/HC_ICCVW2017_poster.pdf)
