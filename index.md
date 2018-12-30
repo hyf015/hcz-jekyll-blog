@@ -10,7 +10,7 @@ I received my M.S. from Graduate School of Information Science and Technology at
 
 
 ## News
-* (Sep 26, 2018) A new [paper](https://arxiv.org/pdf/1810.06859.pdf) on object co-segmentation is accepted to ACCV 2018. Details coming soon.
+* (Sep 26, 2018) A new [paper](https://arxiv.org/pdf/1810.06859.pdf) on object co-segmentation is accepted to ACCV 2018. [Code](https://github.com/sairin1202/Semantic-Aware-Attention-Based-Deep-Object-Co-segmentation)
 * (July 5, 2018) Our work on egocentric gaze prediction has been accepted to ECCV 2018 as **oral presentation**! [[Project page]](https://cai-mj.github.io/project/egocentric_gaze_prediction)
 * (March 15, 2018) We uploaded our work on gaze prediction in egocentric video to [arXiv](https://arxiv.org/abs/1803.09125).
 * (December 1 2017) We released our [UTJA Dataset (University of Tokyo - Joint Attention)](https://github.com/cai-mj/UTJA_dataset).
