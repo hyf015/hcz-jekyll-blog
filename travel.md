@@ -5,6 +5,9 @@ permalink: /travel/
 ---
 2018 - 
 ======
+* Thailand
+  * [Bangkok](../travel_ims/bangkok.jpeg)
+
 * Japan
   * [Urayasu（浦安）](../travel_ims/urayasu.JPG)
   * [Sapporo（札幌）](../travel_ims/sapporo.JPG), [Asahikawa（旭川）](../travel_ims/asahikawa.JPG), [Otaru（小樽）](../travel_ims/otaru.JPG), [Hakodate（函館）](https://hyf015.github.io/static/projects/IMG_0763.jpg), [Furano（富良野）](../travel_ims/furano.JPG)
