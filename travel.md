@@ -5,6 +5,8 @@ permalink: /travel/
 ---
 2018 - 
 ======
+* China
+  * [Xuzhou (徐州) ](../travel_ims/xuzhou.JPG)
 * Thailand
   * [Bangkok](../travel_ims/bangkok.jpeg)
 
@@ -53,7 +55,7 @@ permalink: /travel/
 * China
   * [Nanjing（南京）](../travel_ims/nanjing.jpg), [Yangzhou（扬州）](../travel_ims/yangzhou.jpg), Suqian（宿迁）, [Suzhou（苏州）](../travel_ims/suzhou.JPG)
   * Hangzhou（杭州）
-  * [Guangzhou（广州）](../travel_ims/guangzhou.jpg), Shenzhen（深圳）
+  * [Guangzhou（广州）](../travel_ims/guangzhou.JPG), Shenzhen（深圳）
   * [Hong Kong（香港）](../travel_ims/hongkong.JPG)
   * Xiamen（厦门）
   * [Guilin（桂林）](../travel_ims/guilin.jpg)
