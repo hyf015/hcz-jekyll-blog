@@ -17,17 +17,17 @@ Education
 * B.S., Automation (IEEE honor class), Shanghai Jiao Tong University
   * Date: September 2011 - July 2015
 
-Intern Experience
-======
-* June 2017 - : Research Intern
-  * Huawei Japan Research Center
-  * Research area: 3D face reconstruction and its applications. 
-  * Supervisor: [Dr. Bo Zheng](http://www.bozheng-lab.com/)
-
-* December 2017 - January 2018: Intern
-  * DJI Japan
-  * Project: HDR imaging.
-  * Supervisor: Dr. Ming Shao
+;Intern Experience
+;======
+;* June 2017 - : Research Intern
+;  * Huawei Japan Research Center
+;  * Research area: 3D face reconstruction and its applications. 
+;  * Supervisor: [Dr. Bo Zheng](http://www.bozheng-lab.com/)
+;
+;* December 2017 - January 2018: Intern
+;  * DJI Japan
+;  * Project: HDR imaging.
+;  * Supervisor: Dr. Ming Shao
   
 Skills
 ======
