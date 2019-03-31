@@ -19,7 +19,7 @@ Education
  
 Intern
 ======
-* June 2017 - : Research Intern
+* June 2017 - March 2019: Research Intern
   * Huawei Japan Research Center
   * Research area: 3D face reconstruction and its applications.
   * Supervisor: Dr. Bo Zheng
