@@ -21,6 +21,9 @@ International Conference
 
 Domestic Conference
 ======
+* L. Yang, <u>Y. Huang</u>, and Y. Sato, &quot;Egocentric Action Recognition using Graph Convolutional Network,&quot; <i>Meeting on Image Recognition and Understanding (**MIRU**)</i>, extended abstract, Aug 2019.
+* Z. Li, <u>Y. Huang</u>, M. Cai, and Y. Sato, &quot;Manipulation-skill Assessment from Videos with Spatial Attention Network,&quot; <i>Meeting on Image Recognition and Understanding (**MIRU**)</i>, extended abstract, Aug 2019.
+* <u>Y. Huang</u>, M. Cai, Z. Li, and Y. Sato, &quot;Mutual Context Network for Jointly Estimating Egocentric Gaze and Actions,&quot; <i>Meeting on Image Recognition and Understanding (**MIRU**)</i>, extended abstract, Aug 2019.
 * Z. Li, <u>Y. Huang</u>, M. Cai, and Y. Sato, &quot;Paiwise performance assessment using deep ranking,&quot; <i>Meeting on Image Recognition and Understanding (**MIRU**)</i>, extended abstract, Aug 2018.
 * <u>Y. Huang</u>, M. Cai, Z. Li, and Y. Sato, &quot;Egocentric gaze prediction using task-dependent attention transition,&quot; <i>Meeting on Image Recognition and Understanding (**MIRU**)</i>, extended abstract, Aug 2018.
 * <u>Y. Huang</u>, M. Cai, H. Kera, R. Yonetani, K. Higuchi, and Y. Sato, &quot;Spatial-temporal segmentation of joint attention in multiple first-person videos,&quot; <i>Meeting on Image Recognition and Understanding (**MIRU**)</i>, extended abstract, Aug 2017.
