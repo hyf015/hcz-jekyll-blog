@@ -5,12 +5,18 @@ permalink: /travel/
 ---
 2018 - 
 ======
+* USA
+  * [Pittsburgh](../travel_ims/Pittsurgh.jpeg)
+  * [Washington DC](../travel_ims/DC.jpeg)
+  * [Hagerstown](../travel_ims/Hagerstown.jpeg)
+  * [Morganstown](../travel_ims/Morganstown.jpeg)
 * China
   * [Xuzhou (徐州) ](../travel_ims/xuzhou.JPG)
 * Thailand
   * [Bangkok](../travel_ims/bangkok.jpeg)
 
 * Japan
+  * [Miyazu (宮津、天橋立)](../travel_ims/Miyazu.jpeg)
   * [Urayasu（浦安）](../travel_ims/urayasu.JPG)
   * [Sapporo（札幌）](../travel_ims/sapporo.JPG), [Asahikawa（旭川）](../travel_ims/asahikawa.JPG), [Otaru（小樽）](../travel_ims/otaru.JPG), [Hakodate（函館）](https://hyf015.github.io/static/projects/IMG_0763.jpg), [Furano（富良野）](../travel_ims/furano.JPG)
   * [Sendai（仙台）](../travel_ims/sendai.JPG)
