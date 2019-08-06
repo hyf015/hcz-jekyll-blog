@@ -6,7 +6,7 @@ permalink: /travel/
 2018 - 
 ======
 * USA
-  * [Pittsburgh](../travel_ims/Pittsurgh.jpeg)
+  * [Pittsburgh](../travel_ims/Pittsburgh.jpeg)
   * [Washington DC](../travel_ims/DC.jpeg)
   * [Hagerstown](../travel_ims/Hagerstown.jpeg)
   * [Morganstown](../travel_ims/Morganstown.jpeg)
