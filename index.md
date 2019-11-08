@@ -10,6 +10,7 @@ I received my M.S. from Graduate School of Information Science and Technology at
 
 
 ## News
+* (November 2019) Our work on skill assessment is presented at [The Second International Workshop on Egocentric Perception, Interaction and Computing](http://www.eyewear-computing.org/EPIC_ICCV19/program) (in conjunction with ICCV 2019). [[Paper]](http://openaccess.thecvf.com/content_ICCVW_2019/html/EPIC/Li_Manipulation-Skill_Assessment_from_Videos_with_Spatial_Attention_Network_ICCVW_2019_paper.html)
 * (April 2019) I started a three months visit in CMU [Kris Kitani's](http://www.cs.cmu.edu/~kkitani/) group.
 * (Sep 26, 2018) A new [paper](https://arxiv.org/pdf/1810.06859.pdf) on object co-segmentation is accepted to ACCV 2018. [[Code]](https://github.com/sairin1202/Semantic-Aware-Attention-Based-Deep-Object-Co-segmentation)
 * (July 5, 2018) Our work on egocentric gaze prediction has been accepted to ECCV 2018 as **oral presentation**! [[Project page]](https://cai-mj.github.io/project/egocentric_gaze_prediction)
