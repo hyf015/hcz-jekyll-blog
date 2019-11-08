@@ -9,6 +9,7 @@ my Google Scholar profile</a>.</u>
 
 International Conference
 ======
+* Z. Li, <u>Y. Huang</u>, M. Cai, and Y. Sato, &quot;Manipulation-skill Assessment from Videos with Spatial Attention Network,&quot; <i>Proceedings of IEEE International Conference on Computer Vision Workshop (**ICCVW**)</i>, Nov 2019.
 * H. Chen, <u>Y. Huang</u>, and H. Nakayama, &quot;Semantic Aware Attention Based Deep Object Co-segmentation,&quot; <i>Proceedings of Asian Conference on Computer Vision (**ACCV**)</i>, 2018.  
 [[Arxiv preprint]](https://arxiv.org/pdf/1810.06859.pdf)
 * <u>Y. Huang</u>, M. Cai, Z. Li, and Y. Sato, &quot;Predicting gaze in egocentric videos by learning task-dependent attention transition,&quot; <i>Proceedings of European Conference on Computer Vision (**ECCV**)</i>, 2018. (<font color="blue">oral presentation, acceptance rate: 2%</font>)  
