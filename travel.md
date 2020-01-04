@@ -6,7 +6,7 @@ permalink: /travel/
 2018 - 
 ======
 * Korea
-  * Seoul
+  * [Seoul](../travel_ims/seoul.JPG)
 * USA
   * [Pittsburgh](../travel_ims/Pittsburgh.jpeg)
   * [Washington DC](../travel_ims/DC.jpeg)
