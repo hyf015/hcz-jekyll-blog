@@ -23,6 +23,7 @@ International Conference
 
 Domestic Conference
 ======
+* L. Yang, <u>Y. Huang</u>, Y.Sugano and Y. Sato, &quot;Egocentric Action Recognition from Noisy Videos,&quot; <i>Pattern Recognition and Machine Understanding (**PRMU**)</i>, extended abstract, Mar 2020.
 * L. Yang, <u>Y. Huang</u>, and Y. Sato, &quot;Egocentric Action Recognition using Graph Convolutional Network,&quot; <i>Meeting on Image Recognition and Understanding (**MIRU**)</i>, extended abstract, Aug 2019.
 * Z. Li, <u>Y. Huang</u>, M. Cai, and Y. Sato, &quot;Manipulation-skill Assessment from Videos with Spatial Attention Network,&quot; <i>Meeting on Image Recognition and Understanding (**MIRU**)</i>, extended abstract, Aug 2019.
 * <u>Y. Huang</u>, M. Cai, Z. Li, and Y. Sato, &quot;Mutual Context Network for Jointly Estimating Egocentric Gaze and Actions,&quot; <i>Meeting on Image Recognition and Understanding (**MIRU**)</i>, extended abstract, Aug 2019.
