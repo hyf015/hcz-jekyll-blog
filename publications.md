@@ -9,7 +9,7 @@ my Google Scholar profile</a>.</u>
 
 International Conference
 ======
-* <u>Y. Huang</u>, Y. Sugano and Y. Sato, &quot;Improving Action Segmentation via Graph-based Temporal Reasoning,&quot; <i>Proceedings of IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**)</i>, June 2020. (Contact me via email for code)
+* <u>Y. Huang</u>, Y. Sugano and Y. Sato, &quot;Improving Action Segmentation via Graph-based Temporal Reasoning,&quot; <i>Proceedings of IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**)</i>, June 2020. (Contact me via email for code) [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Huang_Improving_Action_Segmentation_via_Graph-Based_Temporal_Reasoning_CVPR_2020_paper.pdf)
 * Z. Li, <u>Y. Huang</u>, M. Cai, and Y. Sato, &quot;Manipulation-skill Assessment from Videos with Spatial Attention Network,&quot; <i>Proceedings of IEEE International Conference on Computer Vision Workshop (**ICCVW**)</i>, Nov 2019.
 [[Paper]](http://openaccess.thecvf.com/content_ICCVW_2019/papers/EPIC/Li_Manipulation-Skill_Assessment_from_Videos_with_Spatial_Attention_Network_ICCVW_2019_paper.pdf)
 * H. Chen, <u>Y. Huang</u>, and H. Nakayama, &quot;Semantic Aware Attention Based Deep Object Co-segmentation,&quot; <i>Proceedings of Asian Conference on Computer Vision (**ACCV**)</i>, 2018.  
