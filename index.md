@@ -10,7 +10,9 @@ I received my M.S. from Graduate School of Information Science and Technology at
 
 
 ## News
-* (March, 2020) One paper on action segmentation is accepted to IEEE Conference on Computer Vision and Pattern Recognition (CVPR2020)!
+* (August, 2020) One paper on explanable video classification is accepted to the IEEE Winter Conference on Applications of Computer Vision (WACV ’21)
+* (June, 2020) One paper on [jointly estimating egocentric gaze and action](https://ieeexplore.ieee.org/document/9139335/) is accepted to IEEE Transactions on Image Processing!
+* (March, 2020) One paper on [action segmentation](https://openaccess.thecvf.com/content_CVPR_2020/papers/Huang_Improving_Action_Segmentation_via_Graph-Based_Temporal_Reasoning_CVPR_2020_paper.pdf) is accepted to IEEE Conference on Computer Vision and Pattern Recognition (CVPR2020)!
 * (December, 2019) One paper on joint attention discovery is accepted to IEEE Transactions on Human-Machine Systems! [[Project Page]](https://cai-mj.github.io/project/joint_attention_discovery)
 * (November 2019) Our work on skill assessment is presented at the [EPIC Workshop](http://www.eyewear-computing.org/EPIC_ICCV19/program) (in conjunction with ICCV 2019). [[Paper]](http://openaccess.thecvf.com/content_ICCVW_2019/html/EPIC/Li_Manipulation-Skill_Assessment_from_Videos_with_Spatial_Attention_Network_ICCVW_2019_paper.html)
 * (April 2019) I started a three months visit in CMU [Kris Kitani's](http://www.cs.cmu.edu/~kkitani/) group.
