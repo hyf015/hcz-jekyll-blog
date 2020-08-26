@@ -11,6 +11,7 @@ I received my M.S. from Graduate School of Information Science and Technology at
 
 ## News
 * (August, 2020) One paper on explanable video classification is accepted to the IEEE Winter Conference on Applications of Computer Vision (WACV ’21)
+* (July, 2020) One paper on Image colorization is accepted to ECCV 2020 (oral presentation)!
 * (June, 2020) One paper on [jointly estimating egocentric gaze and action](https://ieeexplore.ieee.org/document/9139335/) is accepted to IEEE Transactions on Image Processing!
 * (March, 2020) One paper on [action segmentation](https://openaccess.thecvf.com/content_CVPR_2020/papers/Huang_Improving_Action_Segmentation_via_Graph-Based_Temporal_Reasoning_CVPR_2020_paper.pdf) is accepted to IEEE Conference on Computer Vision and Pattern Recognition (CVPR2020)!
 * (December, 2019) One paper on joint attention discovery is accepted to IEEE Transactions on Human-Machine Systems! [[Project Page]](https://cai-mj.github.io/project/joint_attention_discovery)
