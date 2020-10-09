@@ -14,6 +14,10 @@ permalink: /travel/
   * [Morganstown](../travel_ims/Morganstown.jpeg)
 * China
   * [Xuzhou (徐州) ](../travel_ims/xuzhou.JPG)
+  * [Dunhuang (敦煌) ](../travel_ims/dunhuang.HEIC)
+  * [Jiayuguan (嘉峪关) ](../travel_ims/jiayuguan.HEIC)
+  * [Zhangye (张掖) ](../travel_ims/zhangye.HEIC)
+  * [Xining (西宁) ](../travel_ims/xining.HEIC)
 * Thailand
   * [Bangkok](../travel_ims/bangkok.jpeg)
 
