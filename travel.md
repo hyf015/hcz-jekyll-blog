@@ -14,10 +14,11 @@ permalink: /travel/
   * [Morganstown](../travel_ims/Morganstown.jpeg)
 * China
   * [Xuzhou (徐州) ](../travel_ims/xuzhou.JPG)
-  * [Dunhuang (敦煌) ](../travel_ims/dunhuang.HEIC)
-  * [Jiayuguan (嘉峪关) ](../travel_ims/jiayuguan.HEIC)
-  * [Zhangye (张掖) ](../travel_ims/zhangye.HEIC)
-  * [Xining (西宁) ](../travel_ims/xining.HEIC)
+  * [Dunhuang (敦煌) ](../travel_ims/dunhuang.jpg)
+  * [Jiayuguan (嘉峪关) ](../travel_ims/jiayuguan.jpg)
+  * [Zhangye (张掖) ](../travel_ims/zhangye.jpg)
+  * [Xining (西宁) ](../travel_ims/xining.jpg)
+  * [Hainan-zangzu (海南藏族自治州)(../travel_ims/hainanzangzu.jpg)
 * Thailand
   * [Bangkok](../travel_ims/bangkok.jpeg)
 
