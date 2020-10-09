@@ -18,7 +18,7 @@ permalink: /travel/
   * [Jiayuguan (嘉峪关) ](../travel_ims/jiayuguan.jpg)
   * [Zhangye (张掖) ](../travel_ims/zhangye.jpg)
   * [Xining (西宁) ](../travel_ims/xining.jpg)
-  * [Hainan-zangzu (海南藏族自治州)(../travel_ims/hainanzangzu.jpg)
+  * [Hainan-zangzu (海南藏族自治州)](../travel_ims/hainanzangzu.jpg)
 * Thailand
   * [Bangkok](../travel_ims/bangkok.jpeg)
 
