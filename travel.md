@@ -14,6 +14,7 @@ permalink: /travel/
   * [Morganstown](../travel_ims/Morganstown.jpeg)
 * China
   * [Xuzhou (徐州) ](../travel_ims/xuzhou.JPG)
+  * [Lanzhou (兰州)](../travel_ims/lanzhou.JPG)
   * [Dunhuang (敦煌) ](../travel_ims/dunhuang.jpg)
   * [Jiayuguan (嘉峪关) ](../travel_ims/jiayuguan.jpg)
   * [Zhangye (张掖) ](../travel_ims/zhangye.jpg)
@@ -23,7 +24,7 @@ permalink: /travel/
   * [Bangkok](../travel_ims/bangkok.jpeg)
 
 * Japan
-  * [Karuizawa (軽井沢)](../travel_ims/karuizawa.jpg), [Agatsuma (吾妻郡)](../travel_ims/Agatsuma.HEIC)
+  * [Karuizawa (軽井沢)](../travel_ims/karuizawa.jpg), [Agatsuma (吾妻郡)](../travel_ims/Agatsuma.jpg)
   * [Miyazu (宮津、天橋立)](../travel_ims/Miyazu.jpeg), [Fukuchiyama (福知山)](../travel_ims/Fukuchiyama.JPG), [Kyotamba (京丹波)](../travel_ims/Kyotamba.JPG)
   * [Urayasu（浦安）](../travel_ims/urayasu.JPG)
   * [Sapporo（札幌）](../travel_ims/sapporo.JPG), [Asahikawa（旭川）](../travel_ims/asahikawa.JPG), [Otaru（小樽）](../travel_ims/otaru.JPG), [Hakodate（函館）](https://hyf015.github.io/static/projects/IMG_0763.jpg), [Furano（富良野）](../travel_ims/furano.JPG)
