@@ -8,7 +8,7 @@ permalink: /cv/
 Education
 ======
 * Ph.D., Information and Communication Engineering, University of Tokyo
-  * Date: April 2018 -
+  * Date: April 2018 - March 2021
   * Advisor: [Prof. Yoichi Sato](http://www.hci.iis.u-tokyo.ac.jp/~ysato/)
 * M.S., Information and Communication Engineering, University of Tokyo
   * Date: October 2015 - March 2018
@@ -19,6 +19,16 @@ Education
  
 Intern
 ======
+* July 2020 - November 2020: Research Intern
+  * Sensetime AD
+  * Research area: Lidar-image fusion for autonomous driving
+  * Supervisor: Dr. Yikang Li
+
+* April 2020 - June 2020: Research Intern
+  * Omron SINICX
+  * Research area: Robot in-hand 6D pose estimation
+  * Supervisor: Dr. Ryo Yonetani and Dr. Felix von Drigalski
+  
 * June 2017 - March 2019: Research Intern
   * Huawei Japan Research Center
   * Research area: 3D face reconstruction and its applications.
@@ -50,4 +60,4 @@ Selected publications
 
 Services
 ======
-Reviewer: GAZE19, CVPR20, ECCV20, ETRA20 
+Reviewer: CVPR, ECCV, ICCV, ACCV, WACV, AAAI
