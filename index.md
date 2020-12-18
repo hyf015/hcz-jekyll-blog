@@ -10,6 +10,7 @@ I received my M.S. from Graduate School of Information Science and Technology at
 
 
 ## News
+* (December, 2020) One paper on graph-based visual storytelling is accepted to AAAI21!
 * (August, 2020) One paper on explanable video classification is accepted to the IEEE Winter Conference on Applications of Computer Vision (WACV ’21)
 * (July, 2020) One paper on Image colorization is accepted to ECCV 2020 (oral presentation)!
 * (June, 2020) One paper on [jointly estimating egocentric gaze and action](https://ieeexplore.ieee.org/document/9139335/) is accepted to IEEE Transactions on Image Processing!
