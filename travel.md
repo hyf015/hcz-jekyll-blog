@@ -3,7 +3,7 @@ layout: page
 title: Travel
 permalink: /travel/
 ---
-2018 - 
+2018 - 2020
 ======
 * Korea
   * [Seoul](../travel_ims/seoul.JPG)
@@ -34,6 +34,7 @@ permalink: /travel/
   * Numazu（沼津）, Gotemba（御殿場）, [Toi（土肥）](../travel_ims/toi.JPG)
   * [Toyama（富山）](../travel_ims/toyama.JPG), [Shirakawago（白川郷）](../travel_ims/shirakawago.JPG)
   * Hida（飛騨）, [Takayama（高山）](../travel_ims/takayama.JPG)
+  * [Fukuoka (福岡)](../travel_ims/Fukuoka.jpg), [Omuta (大牟田)](../travel_ims/Omuta.jpg), [Kumamoto (熊本)](../travel_ims/Kumamoto.jpg), [Aso (阿蘇)](../travel_ims/Aso.jpg), [Oita (大分)](../travel_ims/Oita.jpg), [Beppu (別府)](../travel_ims/Beppu.jpg), [Kitakyushu (北九州)](../travel_ims/Kitakyushu.jpg)
   
 * Germany
   * [Munich](../travel_ims/munich.JPG)
