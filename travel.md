@@ -89,3 +89,5 @@ Before 2011
   * [Changsha（长沙）](../travel_ims/changsha.JPG), Zhangjiajie（张家界）
   * Urumqi（乌鲁木齐）, Kuerle（库尔勒）, Turpan（吐鲁番）, [Qaramay（克拉玛依）](../travel_ims/qaramay.JPG), [Altay（阿勒泰）](../travel_ims/altay.jpg)
   * Xi'an（西安）
+  * Kunming (昆明), Dali (大理), Lijiang (丽江)
+  * Qinhuangdao (秦皇岛) 
