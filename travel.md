@@ -82,7 +82,7 @@ permalink: /travel/
 Before 2011
 ======
 * China
-  * Beijing（北京）, Tianjin（天津）, [Shanghai（上海）](../travel_ims/shanghai.JPG)
+  * [Beijing（北京）](../travel_ims/beijing.JPG), Tianjin（天津）, [Shanghai（上海）](../travel_ims/shanghai.JPG)
   * Puyang（濮阳）, Hebi（鹤壁）, Zhengzhou（郑州）, Kaifeng（开封）, Shangqiu（商丘）, Luoyang（洛阳）, Pingdingshan（平顶山）, Anyang（安阳）
   * Jinan（济南）, Laiwu（莱芜）, Tsingtao（青岛）, Dongying（东营）, Yantai（烟台）, Liaocheng（聊城）, Heze（菏泽）, Qufu（曲阜）, Weihai（威海）
   * Dalian（大连） 
