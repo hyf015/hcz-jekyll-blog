@@ -4,12 +4,14 @@ title: Home
 permalink: /
 ---
 # Hello
-Hi! I'm Yifei Huang (黄逸飞), a PhD student in [Sato Laboratory](http://www.hci.iis.u-tokyo.ac.jp/), which is in the [Institute of Industrial Science](https://www.iis.u-tokyo.ac.jp/en/) of the [University of Tokyo](http://www.u-tokyo.ac.jp/en/). I am now working with [Prof. Yoichi Sato](http://www.hci.iis.u-tokyo.ac.jp/~ysato/index.html) under the [JST CREST](http://www.hci.iis.u-tokyo.ac.jp/~cvs/) project, which focuses on understanding and assistance of group activities using first-person vision. I'm currenctly supported by the [Global Creative Leader](http://www.gcl.i.u-tokyo.ac.jp/) program of the University of Tokyo.
+Hi! I'm Yifei Huang (黄逸飞), a Project Associate Professor (特任助教) in [Sato Laboratory](http://www.hci.iis.u-tokyo.ac.jp/), which is in the [Institute of Industrial Science](https://www.iis.u-tokyo.ac.jp/en/) of the [University of Tokyo](http://www.u-tokyo.ac.jp/en/). I am now working with [Prof. Yoichi Sato](http://www.hci.iis.u-tokyo.ac.jp/~ysato/index.html) under the [JST CREST](http://www.hci.iis.u-tokyo.ac.jp/~cvs/) project, which focuses on understanding and assistance of egocentric activities using first-person cues.
 
-I received my M.S. from Graduate School of Information Science and Technology at the [University of Tokyo](http://www.u-tokyo.ac.jp/en/), supervised by Prof. Yoichi Sato. I received my B.S. in Automation in [IEEE honor class](http://english.seiee.sjtu.edu.cn/english/info/8338.htm) of [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/).
+I received my PhD and M.S. from Graduate School of Information Science and Technology at the [University of Tokyo](http://www.u-tokyo.ac.jp/en/), supervised by Prof. Yoichi Sato, under the support of the [Global Creative Leader](http://www.gcl.i.u-tokyo.ac.jp/) program of the University of Tokyo. I received my B.S. in Automation in [IEEE honor class](http://english.seiee.sjtu.edu.cn/english/info/8338.htm) of [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/).
 
 
 ## News
+* (April, 2021) I got my Ph.D and get enrolled in the Institute of Industrial Science, the University of Tokyo as a 特任助教.
+* (March, 2021) One paper accepted by ICRA2021 and one by CVPR2021!
 * (December, 2020) One paper on graph-based visual storytelling is accepted to AAAI21!
 * (August, 2020) One paper on explanable video classification is accepted to the IEEE Winter Conference on Applications of Computer Vision (WACV ’21)
 * (July, 2020) One paper on Image colorization is accepted to ECCV 2020 (oral presentation)!
