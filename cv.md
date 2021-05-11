@@ -5,6 +5,11 @@ permalink: /cv/
 ---
 ## PDF version of my CV can be seen [here](assets/CV.pdf).
 
+Work
+======
+* Project Assistant Professor, Institute of Industrial Science, the University of Tokyo
+  * Date: April 2021 - 
+
 Education
 ======
 * Ph.D., Information and Communication Engineering, University of Tokyo
@@ -47,16 +52,6 @@ Skills
   * English: Fluent (TOEFL 105 in 2018, TOIEC 980 in 2018)
   * Japanese: Intermediate (JLPT N2 in 2014)
   
-Selected publications
-======
-* <u>Y. Huang</u>, M. Cai, Z. Li and Y. Sato, &quot;Predicting Gaze in Egocentric Video by Learning Task-dependent Attention Transition,&quot; <i>European Conference on Computer Vision (**ECCV**)</i>, to appear, 2018. (<font color="blue">oral presentation, acceptance rate: 2%</font>)  
-[[Arxiv preprint]](https://arxiv.org/pdf/1803.09125)
-* H. Chen, <u>Y. Huang</u>, and H. Nakayama, &quot;Semantic Aware Attention Based Deep Object Co-segmentation,&quot; <i>Proceedings of Asian Conference on Computer Vision (**ACCV**)</i>, 2018.  
-[[Arxiv preprint]](https://arxiv.org/pdf/1810.06859.pdf)
-* <u>Y. Huang</u>, M. Cai, H. Kera, R. Yonetani, K. Higuchi, and Y. Sato, &quot;Temporal localization and spatial segmentation of joint attention in multiple first-person videos,&quot; <i>Proceedings of IEEE International Conference on Computer Vision Workshop (**ICCVW**)</i>, pp. 2313-2321, 2017.   
-[[pdf]](http://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w34/attention_hyfiis.u-tokyo.ac.jp_cai-mjiis.u-tokyo.ac.jp_keraiis.u-tokyo.ac.jp_ICCV_2017_paper.pdf)
-[[poster]](/assets/HC_ICCVW2017_poster.pdf)
-[[dataset]](https://github.com/cai-mj/UTJA_dataset)
 
 Services
 ======
