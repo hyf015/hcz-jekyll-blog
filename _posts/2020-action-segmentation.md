@@ -1,11 +1,12 @@
 ---
 layout: post
 title: "Egocentric Action Segmentation"  
-image: /assets/EAS.png
+date:   2020-07-24 14:50:39
+image: /static/img/EAS.png
 categories: projects
 ---
 # Egocentric Action Segmentation
-<img class="img-responsive" src="/assets/EAS.png">
+<img class="img-responsive" src="/static/img/EAS.png">
 ### Abstract
 Temporal relations among multiple action segments play an important role in action segmentation especially when observations are limited (e.g., actions are occluded by other objects or happen outside a field of view). 
 In this paper, we propose a network module called Graph-based Temporal Reasoning Module (\model) that can be built on top of existing action segmentation models to learn the relation of multiple action segments in various time spans. 
